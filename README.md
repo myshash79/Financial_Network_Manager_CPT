@@ -10,7 +10,7 @@ A simulated enterprise-grade financial network built in Cisco Packet Tracer, pro
 The Financial Institution Network System is designed to create a secure, high-performance, and fault-tolerant infrastructure for a financial organization.
 It integrates LAN, WAN, VLANs, OSPF routing, VPNs, ACLs, and VoIP, ensuring seamless connectivity, security, and efficient resource management across all departments.
 
- Key Features
+# Key Features
 | Feature | Description |
 |---------|-------------|
 | LAN & WAN | Smooth internal and external communication |
@@ -48,6 +48,6 @@ Protocols	OSPF, IPsec VPN, SSH, PAT, ACL, VLAN
 ✅ Functional DNS, DHCP, and email services
 
 
-## 🔒 Outcome
+## Outcome
 
 A robust, secure, and scalable financial network infrastructure capable of delivering confidential, reliable, and high-speed communication across all organizational levels.
