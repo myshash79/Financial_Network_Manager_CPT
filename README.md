@@ -1,16 +1,16 @@
 # Financial_Network_Manager_CPT
 The Financial Institution Network System builds a secure, scalable, and high-performance network using VLANs, OSPF, VPN, ACLs, and VoIP. Designed with dual ISPs for redundancy and Cisco Packet Tracer for simulation, it ensures reliable connectivity, data protection, and efficient communication across all departments.
 
-## 🏦 Financial_Network_Manager_CPT
+## Financial_Network_Manager_CPT
 
 A simulated enterprise-grade financial network built in Cisco Packet Tracer, providing secure, redundant, and scalable communication across departments.
 
-## 💻 Project Overview
+## Project Overview
 
 The Financial Institution Network System is designed to create a secure, high-performance, and fault-tolerant infrastructure for a financial organization.
 It integrates LAN, WAN, VLANs, OSPF routing, VPNs, ACLs, and VoIP, ensuring seamless connectivity, security, and efficient resource management across all departments.
 
-⚙️ Key Features
+ Key Features
 | Feature | Description |
 |---------|-------------|
 | LAN & WAN | Smooth internal and external communication |
@@ -22,13 +22,13 @@ It integrates LAN, WAN, VLANs, OSPF routing, VPNs, ACLs, and VoIP, ensuring seam
 | DNS/DHCP/Web/Mail | Reliable network services |
 
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 Tool / Device	Purpose
 Cisco Packet Tracer	Network simulation and configuration
 Cisco Routers & Catalyst Switches	Core network devices
 Protocols	OSPF, IPsec VPN, SSH, PAT, ACL, VLAN
 
-## 🧾 Implementation Summary
+## Implementation Summary
 
 - Configured VLANs for departmental segmentation.  
 - Implemented OSPF for dynamic routing.  
@@ -37,7 +37,7 @@ Protocols	OSPF, IPsec VPN, SSH, PAT, ACL, VLAN
 - Configured DNS, DHCP, Web, and Email servers for reliable services.  
 - Verified network redundancy, latency, and throughput through simulations.
 
-## 📈 Results
+## Results
 
 ✅ Secure VoIP communication between departments
 
